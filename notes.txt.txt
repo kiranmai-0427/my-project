@@ -1,1 +1,2 @@
 This is my first Git project.
+Fixed bug in project.
